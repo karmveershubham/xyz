@@ -1,4 +1,4 @@
-# Become Instructor Frontend
+# Trainer Profile Frontend
 
 To develop a visually appealing and user-friendly frontend for a trainer profile, showcasing the trainer's details, work experience, education, and contact information. The project will leverage the power of Next.js for efficient routing and component management, and Tailwind CSS for rapid and responsive styling.
 
