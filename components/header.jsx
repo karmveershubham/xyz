@@ -1,5 +1,8 @@
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
+import myImage1 from '../assets/left.png';
+import myImage2 from '../assets/right.png';
 
 const Header = () => {
   return (
@@ -21,10 +24,23 @@ const Header = () => {
           </button>
         </div>
       </div>
-    <div className="bg-[#0E3750] w-full h-[484px] flex items-center justify-center">
-        <h2 className="text-[#FFFFFF] text-left px-[150px]">Submit your details to get verified</h2>
+      <div className="bg-[#032031] w-full h-[484px] flex items-center justify-between">
+        <Image 
+          src={myImage1} 
+          alt="Left Icon" 
+          width={626} 
+          height={253} 
+          className="h-auto" 
+        />
+        <div className="flex-1"></div> {/* Empty div for spacing */}
+        <Image 
+          src={myImage2} 
+          alt="Right Icon" 
+          width={626} 
+          height={253} 
+          className="h-auto" 
+        />
       </div>
-
     </div>
   );
 };
