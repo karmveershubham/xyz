@@ -1,8 +1,9 @@
 # Become Instructor Frontend
 
-The "Become Instructor" page is part of a Next.js project that allows users to apply to become an instructor. It includes a form where users can provide their personal details, qualifications, and other relevant information. The form also includes a section for users to upload their profile photo and provide details about their teaching experience.
+To develop a visually appealing and user-friendly frontend for a trainer profile, showcasing the trainer's details, work experience, education, and contact information. The project will leverage the power of Next.js for efficient routing and component management, and Tailwind CSS for rapid and responsive styling.
 
-![image](https://github.com/user-attachments/assets/c4bd5fd0-73c1-429c-a355-b7dff7dd96d2)
+
+![Screenshot 2024-08-12 193325](https://github.com/user-attachments/assets/61d9cbc8-fb78-4ebb-a6df-0ebb59bd6011)
 
 
 ## Table of Contents
